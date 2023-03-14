@@ -1,5 +1,5 @@
 {
-    "name": "QuizBuzzer_Client-Physical Computing WB",
+    "name": "QuizBuzzer_Client_Physical Computing WB",
     "description": "",
     "dependencies": {
         "core": "*",
